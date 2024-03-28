@@ -90,7 +90,6 @@ address {
   color: #fff;
 }
 .main-btn {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -149,7 +148,7 @@ address {
 /* ----------OUR TEAM---------------*/
 
 .team-sec {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 
 .team-title {
@@ -193,6 +192,12 @@ address {
 }
 
 .portf-main-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 .portf-list {
@@ -227,6 +232,7 @@ address {
 }
 
 .accent {
+  color: ##f4f4fd;
 }
 
 .footer-text {
