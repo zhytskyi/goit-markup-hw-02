@@ -148,7 +148,7 @@ address {
 /* ----------OUR TEAM---------------*/
 
 .team-sec {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .team-title {
@@ -198,6 +198,7 @@ address {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .portf-list {
@@ -231,8 +232,8 @@ address {
 .logo {
 }
 
-.accent {
-  color: ##f4f4fd;
+.footer-page span {
+  color: #f4f4fd;
 }
 
 .footer-text {
