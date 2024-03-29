@@ -19,14 +19,12 @@ address {
 /* ------- Header------------------*/
 .header {
 }
-
 .header-nav {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -36,30 +34,23 @@ address {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-
 .accent {
   color: #2e2f42;
 }
-
 .nav-list {
 }
-
 .navi-link-studio {
   color: #2e2f42;
 }
-
 .navi-link-studio:focus,
 .navi-link-studio:active,
 .navi-link-studio:hover {
   color: #404bbf;
 }
-
 .nav-cont {
 }
-
 .nav-cont-list {
 }
-
 .nav-cont-link {
   font-weight: 400;
   font-size: 16px;
@@ -67,7 +58,6 @@ address {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
 .nav-cont-link:hover,
 .nav-cont-link:active,
 .nav-cont-link:focus {
@@ -107,19 +97,6 @@ address {
 /* -------------------------*/
 /* ----------QUALITIES---------------*/
 .qual-section {
-}
-
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
 }
 
 .qual-list {
@@ -162,9 +139,9 @@ address {
 }
 
 .team-list {
-  background: #ffffff;
 }
 .team-item {
+  background: #ffffff;
 }
 
 .taem-names {
