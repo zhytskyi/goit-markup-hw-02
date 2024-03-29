@@ -47,17 +47,8 @@ address {
 .nav-link-studio {
   color: ;#2e2f42;
 }
-.nav-link-studio:focus, .nav-link-studio:active, .nav-link-studio:hover {
-  color: #404bbf;
-}
 
-.nav-link:active {
-  color: #404bbf;
-}
-.nav-link:hover {
-  color: #404bbf;
-}
-.nav-link:focus {
+.nav-link-studio:focus, .nav-link-studio:active, .nav-link-studio:hover {
   color: #404bbf;
 }
 
