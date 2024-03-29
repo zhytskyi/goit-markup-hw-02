@@ -39,12 +39,14 @@ address {
 }
 .nav-list {
 }
-.navi-link-studio {
+.nav-link {
+}
+.nav-link-studio {
   color: #2e2f42;
 }
-.navi-link-studio:focus,
-.navi-link-studio:active,
-.navi-link-studio:hover {
+.nav-link-studio:focus,
+.nav-link-studio:active,
+.nav-link-studio:hover {
   color: #404bbf;
 }
 .nav-cont {
